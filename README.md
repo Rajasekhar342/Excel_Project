@@ -22,5 +22,5 @@ Key Insights:
 # Amazon, Flipkart and Myntra are contributing maximum(80%)
 
 FINAL CONCLUSION:
-## Target Women customers of age group(30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons
-   available on Amazon, Flipkart and Myntra.
+## Target Women customers of age group(30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons  available on Amazon, Flipkart and Myntra.
+  
