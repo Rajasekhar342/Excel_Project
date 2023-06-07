@@ -12,7 +12,7 @@ using the data i have i try to solve these below questions
 * Highest selling category?,etc
 
 By analysing the data we get the following result. 
-you can see the resultS by visiting the below link.
+you can see the results by visiting the below link.
 ![Sales Annual Report](https://github.com/Rajasekhar342/Excel_Project/assets/101009856/8c33a5ab-84be-4992-8a52-70d55f406c69)
 
 Key Insights:
